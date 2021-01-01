@@ -1,1 +1,7 @@
 TO DO LIST
+
+- Fix accuracy cell error
+- Make interactive using Docker as suggested
+- Check same day extraction 
+- Add extra features, e.g. pull out identifiers, all comments/notes, RG data only option...
+- Make a tutorial for those without coding experience on how to change features
