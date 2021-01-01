@@ -8,3 +8,5 @@ TO DO
 - Check same day extraction
 - Add info about how iRecord fields map to iNaturalist fields and how to edit
 - Make sure cells are well separated
+- Fix the error on accuracy cell
+- Place the columns in a better, non-alphabetical order
